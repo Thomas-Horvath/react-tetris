@@ -1,0 +1,31 @@
+.tetromino-square {
+    border: solid 1px black;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.tetromino-square.I {
+    background-color: aqua;
+}
+
+.tetromino-square.O {
+    background-color: yellow;
+}
+
+.tetromino-square.L {
+    background-color: orange;
+}
+.tetromino-square.Z {
+    background-color: green;
+}
+.tetromino-square.T {
+    background-color: tomato;
+}
+
+.tetromino-square.empty {
+    border: none;
+}
+.tetromino-row {
+    height: 20px;
+}

@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "game-board score"
+        "game-board games-stats"
+        "game-board options";
+    
+}
+
+.header {
+    grid-area: header;
+
+}

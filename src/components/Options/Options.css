@@ -1,0 +1,7 @@
+.options {
+    background-color: rgb(25,25,25);
+    color: lightblue;
+    grid-area: options;
+    height: 10vh;
+    width: 30vw;
+}

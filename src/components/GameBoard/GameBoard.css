@@ -1,0 +1,7 @@
+.game-board {
+    background-color: darkslateblue;
+    color: whitesmoke;
+    grid-area: game-board;
+    height: 80vh;
+    width: 70vw;
+}

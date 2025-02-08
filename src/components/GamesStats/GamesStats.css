@@ -1,0 +1,6 @@
+.games-stats {
+    background-color: darkslategray;
+    color: lightgray;
+    grid-area: games-stats;
+    height: 50vh;
+}

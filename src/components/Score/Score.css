@@ -1,0 +1,7 @@
+.score {
+    background-color: darkblue;
+    color: lightyellow;
+    grid-area: score;
+    width: 30vw;
+    height: 20vh;
+}
